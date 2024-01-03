@@ -1,5 +1,7 @@
 # Artificial Neural Networks Activation Functions
 
+# Artificial Neural Networks Activation Functions
+
 This repository contains Python code examples for various activation functions commonly used in Artificial Neural Networks (ANNs). Each activation function is implemented in a separate folder, and the code provides a clear demonstration of how to use and visualize the activation functions.
 
 ## Activation Functions Included
@@ -23,6 +25,10 @@ This repository contains Python code examples for various activation functions c
 5. **Exponential Linear Unit (ELU) Function**
    - Folder: `Neural-Network_ELU`
    - Description: Implementation and demonstration of the Exponential Linear Unit (ELU) activation function.
+
+6. **Unit Step Activation Function**
+   - Folder: `Neural-Network_UnitStep`
+   - Description: Implementation and demonstration of the Unit Step activation function.
 
 ## How to Use
 
