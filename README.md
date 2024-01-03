@@ -1,4 +1,3 @@
-# Artificial Neural Networks Activation Functions
 
 # Artificial Neural Networks Activation Functions
 
